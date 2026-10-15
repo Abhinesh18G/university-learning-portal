@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: university-portal
-          image: abhinesh18g/university-learning-portal:v2
+          image: abhinesh18g/university-learning-portal:bad-version
           ports:
             - containerPort: 80
 
